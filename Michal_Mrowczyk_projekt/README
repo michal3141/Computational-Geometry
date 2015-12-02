@@ -1,0 +1,18 @@
+Obok katalog Michal_Mrowczyk_projekt.
+Katalog ten zawiera bezpośrednio pliki z kodem programu. Dwa główne pliki to:
+polyhedra.py i commons.py, pozostałe pliki .py zostały wygenerowane automatycznie
+z plików .sage 
+
+Oprócz tego jest katalog docs zawierający:
+- dokumentację użytkownika
+- dokumentację techniczną
+- prezentację (prezentowaną w czasie zajęć)
+
+Sposób instalacji programu został wyjaśniony w dokumentacji technicznej
+Dokumentacja użytkownika zawiera przypadki użycia, opisujące pokrótce wszystkie
+funkcje programu.
+
+Poza tym jest katalog data, zawierający pliki z danymi reprezentującymi 
+wielościany. W tym katalogu znajdują się różne wielościany, między innymi
+to: c - cube (sześcian), t - tetrahedron (czworościan), o - octahedron,
+d - dodecahedron, i - icosahedron.
